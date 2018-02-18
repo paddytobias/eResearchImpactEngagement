@@ -1,4 +1,4 @@
-#eResearch Impact and Engagement analysis
+# eResearch Impact and Engagement analysis
 
 A project for the UNE eResearch Committee to find out what potential eResearch capabilities bring to the research engagement and impact, ahead of the 2018 ARC assessment. 
 
